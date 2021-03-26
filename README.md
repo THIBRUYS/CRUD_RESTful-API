@@ -7,6 +7,7 @@ I used the following libraries to make this project:
 - Flask-RESTful
 - Flask-JWT
 - SQLite3
+
 Everything was tested multiple times during development using Postman, these are the routes that the API uses:
 
 ```
