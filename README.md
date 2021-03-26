@@ -3,12 +3,10 @@
 This is a python API that I developed, right now it contains a V1 and a V2, the V1 being a basic version. Users can authenticate and use 4 HTTP protocols to add/delete/see/update items and their price.
 
 I used the following libraries to make this project:
-```
-Flask
-Flask-RESTful
-Flask-JWT
-SQLite3
-```
+- Flask
+- Flask-RESTful
+- Flask-JWT
+- SQLite3
 Everything was tested multiple times during development using Postman, these are the routes that the API uses:
 
 ```
